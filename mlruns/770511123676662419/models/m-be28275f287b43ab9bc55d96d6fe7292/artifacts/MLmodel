@@ -1,0 +1,22 @@
+artifact_path: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/models/m-be28275f287b43ab9bc55d96d6fe7292/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.10
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 2.1.1
+mlflow_version: 3.1.1
+model_id: m-be28275f287b43ab9bc55d96d6fe7292
+model_size_bytes: 265931
+model_uuid: m-be28275f287b43ab9bc55d96d6fe7292
+prompts: null
+run_id: 69396b42854d43809a7b18f6f4d90f4e
+utc_time_created: '2025-07-02 14:48:10.996667'

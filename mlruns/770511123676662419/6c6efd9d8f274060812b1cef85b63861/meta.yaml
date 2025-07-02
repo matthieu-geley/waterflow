@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/6c6efd9d8f274060812b1cef85b63861/artifacts
+end_time: 1751463190837
+entry_point_name: ''
+experiment_id: '770511123676662419'
+lifecycle_stage: active
+run_id: 6c6efd9d8f274060812b1cef85b63861
+run_name: mysterious-sheep-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751463190316
+status: 4
+tags: []
+user_id: QWERTY

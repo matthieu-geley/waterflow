@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/ad8ec7ba89b54f6eba51b6c0dc6a1592/artifacts
+end_time: 1751463725818
+entry_point_name: ''
+experiment_id: '770511123676662419'
+lifecycle_stage: active
+run_id: ad8ec7ba89b54f6eba51b6c0dc6a1592
+run_name: spiffy-lark-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751463725294
+status: 3
+tags: []
+user_id: QWERTY

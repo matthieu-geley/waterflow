@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/models/m-6a07e2f7cbe94d0e8fc8ad0d44cce16a/artifacts
+creation_timestamp: 1751465985219
+experiment_id: '770511123676662419'
+last_updated_timestamp: 1751465987598
+model_id: m-6a07e2f7cbe94d0e8fc8ad0d44cce16a
+model_type: null
+name: xgboost_model
+source_run_id: e3e652839ed6458ebbbc7abc203de22b
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/3eb0397fc8124666ad870f793840ac6f/artifacts
+end_time: 1751464735492
+entry_point_name: ''
+experiment_id: '770511123676662419'
+lifecycle_stage: active
+run_id: 3eb0397fc8124666ad870f793840ac6f
+run_name: XGBoost_Water_Quality
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751464733162
+status: 3
+tags: []
+user_id: QWERTY

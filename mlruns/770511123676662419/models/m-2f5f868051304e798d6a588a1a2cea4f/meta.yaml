@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/models/m-2f5f868051304e798d6a588a1a2cea4f/artifacts
+creation_timestamp: 1751465982974
+experiment_id: '770511123676662419'
+last_updated_timestamp: 1751465985053
+model_id: m-2f5f868051304e798d6a588a1a2cea4f
+model_type: null
+name: random_forest_model
+source_run_id: a10db32fdd324b27a036a0acbeff38cb
+status: 2
+status_message: null

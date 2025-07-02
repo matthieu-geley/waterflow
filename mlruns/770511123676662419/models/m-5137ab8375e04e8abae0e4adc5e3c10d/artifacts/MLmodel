@@ -1,0 +1,22 @@
+artifact_path: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/models/m-5137ab8375e04e8abae0e4adc5e3c10d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 3.1.1
+model_id: m-5137ab8375e04e8abae0e4adc5e3c10d
+model_size_bytes: 1727938
+model_uuid: m-5137ab8375e04e8abae0e4adc5e3c10d
+prompts: null
+run_id: 94faa5fa75ae437d9fdc18819205991a
+utc_time_created: '2025-07-02 14:48:08.849365'

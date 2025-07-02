@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/94faa5fa75ae437d9fdc18819205991a/artifacts
+end_time: 1751467690839
+entry_point_name: ''
+experiment_id: '770511123676662419'
+lifecycle_stage: active
+run_id: 94faa5fa75ae437d9fdc18819205991a
+run_name: Random_Forest_Water_Quality
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751467688282
+status: 3
+tags: []
+user_id: QWERTY

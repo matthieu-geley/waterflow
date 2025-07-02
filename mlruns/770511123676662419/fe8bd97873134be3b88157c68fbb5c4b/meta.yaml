@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/QWERTY/Documents/GitHub/waterflow/mlruns/770511123676662419/fe8bd97873134be3b88157c68fbb5c4b/artifacts
+end_time: 1751467688271
+entry_point_name: ''
+experiment_id: '770511123676662419'
+lifecycle_stage: active
+run_id: fe8bd97873134be3b88157c68fbb5c4b
+run_name: unique-wasp-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751467687761
+status: 3
+tags: []
+user_id: QWERTY
