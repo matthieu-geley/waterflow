@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/591171063125234266/1a1483cc381d46f88ee056770bce223d/artifacts
+end_time: 1751828275121
+entry_point_name: ''
+experiment_id: '591171063125234266'
+lifecycle_stage: active
+run_id: 1a1483cc381d46f88ee056770bce223d
+run_name: RandomForest_WaterQuality_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751828235939
+status: 3
+tags: []
+user_id: QWERTY

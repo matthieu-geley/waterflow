@@ -1,0 +1,24 @@
+{
+  "feature_names": [
+    "ph",
+    "Hardness",
+    "Solids",
+    "Chloramines",
+    "Sulfate",
+    "Conductivity",
+    "Organic_carbon",
+    "Trihalomethanes",
+    "Turbidity"
+  ],
+  "n_features": 9,
+  "train_samples": 800,
+  "val_samples": 200,
+  "classes": [
+    0,
+    1
+  ],
+  "target_names": [
+    "Non Potable",
+    "Potable"
+  ]
+}

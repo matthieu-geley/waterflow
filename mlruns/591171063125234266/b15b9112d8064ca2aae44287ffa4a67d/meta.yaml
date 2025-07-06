@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/591171063125234266/b15b9112d8064ca2aae44287ffa4a67d/artifacts
+end_time: 1751828295378
+entry_point_name: ''
+experiment_id: '591171063125234266'
+lifecycle_stage: active
+run_id: b15b9112d8064ca2aae44287ffa4a67d
+run_name: Models_Comparison_Summary
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751828295293
+status: 3
+tags: []
+user_id: QWERTY
