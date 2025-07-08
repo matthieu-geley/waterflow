@@ -1,0 +1,50 @@
+# Dépendances pour l'application Flask de prédiction de qualité d'eau
+# Projet Drink Safe - Waterflow
+# Compatible Python 3.13
+
+# Framework web
+Flask>=3.0.0
+
+# Machine Learning et Data Science
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+joblib>=1.3.0
+
+# MLflow pour le tracking et le déploiement de modèles
+mlflow>=2.9.0
+
+# XGBoost pour les modèles d'ensemble
+xgboost>=2.0.0
+
+# Communication HTTP
+requests>=2.31.0
+
+# Dépendances système et utilitaires
+python-dateutil>=2.8.2
+pytz>=2024.1
+
+# Sécurité et cryptographie (requis par MLflow)
+cryptography>=42.0.0
+
+# Interface utilisateur (pour MLflow UI)
+Jinja2>=3.1.0
+MarkupSafe>=2.1.0
+
+# Base de données (SQLite par défaut pour MLflow)
+sqlalchemy>=2.0.0
+
+# Parsing et validation
+click>=8.1.0
+pyyaml>=6.0.0
+
+# Monitoring et logging
+psutil>=5.9.0
+
+# Packaging et distribution (essentiels pour Python 3.13)
+packaging>=23.0
+setuptools>=69.0.0
+wheel>=0.42.0
+
+# Dépendances supplémentaires pour éviter les conflits
+pip>=24.0
